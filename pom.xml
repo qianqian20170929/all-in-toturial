@@ -10,4 +10,8 @@
     <name>all-in-toturial</name>
     <description>the toturial project containing all of toturials</description>
 
+    <modules>
+        <module>finite-state-machine</module>
+    </modules>
+
 </project>
