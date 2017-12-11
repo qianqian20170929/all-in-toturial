@@ -39,7 +39,7 @@
         <dependency>
             <groupId>org.springframework.statemachine</groupId>
             <artifactId>spring-statemachine-core</artifactId>
-            <version>1.2.6.RELEASE</version>
+            <version>1.2.5.RELEASE</version>
         </dependency>
     </dependencies>
 
